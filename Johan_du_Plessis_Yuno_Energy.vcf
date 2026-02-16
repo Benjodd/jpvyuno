@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:du Plessis;Johan;;;
+FN:Johan du Plessis
+ORG:Yuno Energy
+TITLE:Senior Sales Specialist
+TEL;TYPE=WORK,CELL:0874135633
+TEL;TYPE=CELL:0894147873
+EMAIL;TYPE=INTERNET,WORK:johan.duplessis@prepaypower.ie
+ADR;TYPE=WORK:;;Leinster, Ireland;;;;
+END:VCARD
